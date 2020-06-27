@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721489860293",
+    "firebase_url": "https://jemy-chat.firebaseio.com",
+    "project_id": "jemy-chat",
+    "storage_bucket": "jemy-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721489860293:android:329dd25f12436b9cc0c2ac",
+        "android_client_info": {
+          "package_name": "com.jemy.jemychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721489860293-cmmsvi2d0uprbdjo298dukdivs7n6aou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrm-N32KXwv0LgIfWqX1_kkZ7c4EeTyV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721489860293-cmmsvi2d0uprbdjo298dukdivs7n6aou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
